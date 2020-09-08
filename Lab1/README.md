@@ -10,7 +10,7 @@ We've copied the questions from the lab here. Answer them below!
 
 ## Part A. Set Up a Breadboard
 
-[insert a photo of your breadboard setup here]
+<a href="https://imgur.com/jnYbQjl"><img src="https://i.imgur.com/jnYbQjl.jpg" title="source: imgur.com" /></a>
 
 
 ## Part B. Manually Blink a LED
@@ -62,7 +62,9 @@ Yes ma'am.
 
 **Make a video of your LED blinking, and add it to your lab submission.**
 
-[link to your video here; feel free to upload to youtube and just paste in a link here]
+<a href="https://www.youtube.com/watch?v=TlChYUmCGXQ
+" target="_blank"><img src="https://www.youtube.com/watch?v=TlChYUmCGXQ/0.jpg" 
+alt="Blink it my way" width="240" height="180" border="10" /></a>
 
 
 ## Part D. Manually fade an LED
@@ -115,4 +117,7 @@ Born from the corpse of used device by a master student in the name of engineeri
 
 **Make a video showing off your Frankenlight.**
 
-**Include any schematics or photos in your lab write-up.**
+<a href="https://www.youtube.com/watch?v=7jxjTcmRmbU
+" target="_blank"><img src="https://www.youtube.com/watch?v=7jxjTcmRmbU/0.jpg" 
+alt="Working Frankenlight" width="240" height="180" border="10" /></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7jxjTcmRmbU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
